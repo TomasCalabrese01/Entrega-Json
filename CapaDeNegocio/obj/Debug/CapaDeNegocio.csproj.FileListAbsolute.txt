@@ -1,0 +1,16 @@
+C:\Users\cfote\Desktop\WebJson\CapaDeNegocio\bin\Debug\CapaDeNegocio.dll
+C:\Users\cfote\Desktop\WebJson\CapaDeNegocio\bin\Debug\CapaDeNegocio.pdb
+C:\Users\cfote\Desktop\WebJson\CapaDeNegocio\bin\Debug\System.Memory.dll
+C:\Users\cfote\Desktop\WebJson\CapaDeNegocio\bin\Debug\System.Text.Json.dll
+C:\Users\cfote\Desktop\WebJson\CapaDeNegocio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cfote\Desktop\WebJson\CapaDeNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cfote\Desktop\WebJson\CapaDeNegocio\bin\Debug\System.Buffers.dll
+C:\Users\cfote\Desktop\WebJson\CapaDeNegocio\bin\Debug\System.ValueTuple.dll
+C:\Users\cfote\Desktop\WebJson\CapaDeNegocio\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\cfote\Desktop\WebJson\CapaDeNegocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\cfote\Desktop\WebJson\CapaDeNegocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cfote\Desktop\WebJson\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\cfote\Desktop\WebJson\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\cfote\Desktop\WebJson\CapaDeNegocio\obj\Debug\CapaDeNe.701FBC6E.Up2Date
+C:\Users\cfote\Desktop\WebJson\CapaDeNegocio\obj\Debug\CapaDeNegocio.dll
+C:\Users\cfote\Desktop\WebJson\CapaDeNegocio\obj\Debug\CapaDeNegocio.pdb
