@@ -16,8 +16,9 @@ namespace Crud
         {
 
             try {
-                
-                string path = "C:\\Users\\cfote\\Desktop\\WebEscuelaP\\CapaDeNegocio\\Datos\\usuarios.json";
+                //string pathBase = AppDomain.CurrentDomain.BaseDirectory;
+                //string path = pathBase + "..\\CapaDeNegocio\\Datos\\usuarios.json";
+                string path = @"C:\\Users\\tomio\\OneDrive\\Escritorio\\Nueva carpeta (2)\\WebEscuelaJson\\CapaDeNegocio\\Datos\\usuarios.json";
                 string json= File.ReadAllText(path);    
                 listaUsuarios=JsonSerializer.Deserialize <List<Usuario>>(json);
             }
@@ -32,7 +33,7 @@ namespace Crud
 
             try
             {
-                string path= "C:\\Users\\cfote\\Desktop\\WebEscuelaP\\CapaDeNegocio\\Datos\\usuarios.json";
+                string path= @"C:\\Users\\tomio\\OneDrive\\Escritorio\\Nueva carpeta (2)\\WebEscuelaJson\\CapaDeNegocio\\Datos\\usuarios.json";
                 string json=JsonSerializer.Serialize(listaUsuarios);
                 File.WriteAllText(path, json);
                                             }
@@ -49,7 +50,9 @@ namespace Crud
         public void Add(Usuario data)
         {
             Read();
-            string pathID = @"C:\Users\cfote\Desktop\WebEscuelaP\CapaDeNegocio\Datos\usuarioLastId.txt";
+            //string pathBase = AppDomain.CurrentDomain.BaseDirectory;
+            //string pathID = pathBase + "..\\CapaDeNegocio\\Datos\\usuarioLastId.txt";
+            string pathID = @"C:\Users\tomio\OneDrive\Escritorio\Nueva carpeta (2)\WebEscuelaJson\CapaDeNegocio\Datos\usuarioLastId.txt";
             lastId = int.Parse(File.ReadAllText(pathID));
             data.ID=++lastId;
             File.WriteAllText(pathID, lastId.ToString()); // guarda el ultimo ID en el archivo de texto
@@ -69,7 +72,7 @@ namespace Crud
             {
                 if(data.ID==u.ID)
                 {
-                    listaUsuarios.Remove(data);
+                    listaUsuarios.Remove(u);
                     Write() ;
                     Clear();
                     return;
@@ -85,7 +88,7 @@ namespace Crud
 
         }
 
-        public Usuario Find(Usuario data)
+        public string Find(Usuario data)
         {
             Read();
             foreach (Usuario u in listaUsuarios)
@@ -93,7 +96,8 @@ namespace Crud
                 if (data.ID == u.ID)
                 {
                     Clear();
-                    return u;
+                    string json = JsonSerializer.Serialize(u);
+                    return json;
                     
                 }
 

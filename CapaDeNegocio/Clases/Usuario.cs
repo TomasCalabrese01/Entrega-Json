@@ -62,19 +62,15 @@ namespace Crud
             datos.Erase(this);
         }
 
-        public Usuario Find()
+        public string Find()
         {
-          datos.Find(this);
-            return this;
-
-
+            return datos.Find(this);
 
         }
         
         public void Modify()
         {
-         
-            
+            datos.Modify(this);
         }
         #endregion
 

@@ -11,6 +11,6 @@ namespace Crud
         void Modify(T data);
         void Add(T data);
         void Erase(T data);
-        T Find(T data);
+        string Find(T data);
     }
 }

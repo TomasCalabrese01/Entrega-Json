@@ -16,6 +16,9 @@ public partial class _Default : System.Web.UI.Page
 
             case "ADDUSUARIO": AddUsuario(); break;
             case "LISTUSUARIOS": ListUsuarios(); break;
+            case "DELETEUSUARIO": DeleteUsuario(); break;
+            case "MODIFYUSUARIO": ModifyUser(); break;
+            case "FINDUSUARIO": FindUser(); break;//nuevo caso
         }
     }
 
@@ -43,5 +46,57 @@ public partial class _Default : System.Web.UI.Page
         Response.Write(lista);
 
     }
+
+    private void DeleteUsuario ()
+    {
+        Usuario U = new Usuario();
+        U.ID= int.Parse(Request["id"]);
+        try
+        {
+            U.Erase();
+            Response.Write("OK");
+        }
+        catch (Exception er)
+        {
+            Response.Write(er.Message);
+        }
+
+    }
+
+    private void ModifyUser()
+    {
+        Usuario U = new Usuario();
+        U.ID = int.Parse(Request["ID"]);
+        U.Nombre = Request["Nombre"];
+        try
+        {
+            U.Modify();
+            Response.Write("OK");
+        }
+        catch (Exception er)
+        {
+            Response.Write(er.Message);
+        }
+
+    }
+    private void FindUser()
+    {
+        Usuario U = new Usuario();
+        U.ID = int.Parse(Request["ID"]);
+        try
+        {
+            string user = U.Find();
+            Response.Write(user);
+        }
+        catch (Exception er)
+        {
+            Response.Write(er.Message);
+        }    
+
+    }
+    
+
+
 } 
+
 

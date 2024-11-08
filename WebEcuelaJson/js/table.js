@@ -28,22 +28,21 @@ const $$DomTable = function () {
     const table = $d.querySelector("table");
     const tbody = $dc.createAndAppend(table, "tbody");
   };
-  let isTable = function() {
-    const table = $d.querySelector("table");
-    return table !== null;
-  };
+  
   this.table = function (listTitles, data) {
-    if (isTable()) {
-      this.addTbodyItem(data);
-           
-    }else
-    {
-      this.createTable();
-      this.createThead();
-      this.createTbody();
-      this.addTheadTitle(listTitles);
-      this.addTbodyItem(data);
-    }
+
+      if (data.length !== 0) {
+
+          this.createTable();
+          this.createThead();
+          this.createTbody();
+          this.addTheadTitle(listTitles);
+          this.addTbodyItem(data);
+      } else {
+          return;
+      }
+
+
   };
 
   this.addTheadTitle = function (listTitles) {
@@ -83,31 +82,46 @@ const $$DomTable = function () {
     icono.classList.add("tr__icono--delet");
     icono.addEventListener("click", deletUser);
 
-  };
+    };
+    
   this.createEditIcon = function (parent) {
     const icono = $dc.icono(parent, "bi-pencil-square");
     icono.classList.add("tr__icono--edit");
-    icono.addEventListener("click", function (e) {
-      const userRow = e.target.parentNode.parentNode; // Obtiene la fila
-      editUser(userRow);
-    });
-  };
-  function deletUser(e) {
-    let user = e.target.parentNode.parentNode;
-    user.remove();
-  }
-  function editUser(userRow) {
-    const data = {}; // Objeto para almacenar los datos del usuario
-    userRow.querySelectorAll("td").forEach((cell, index) => {
-      const keys = ["nombre", "dni", "email"];
-      const key = keys[index]; // Obtiene el título de la celda (nombre, DNI, etc.)
-      const value = cell.textContent; // Obtiene el valor de la celda
-      data[key] = value;
-      const form = $d.querySelector("form");
-      form.elements["name-user"].value = data.nombre;
-      form.elements["dni-user"].value = parseInt(data.dni);
-      form.elements["mail-user"].value = data.email;
-    });
-  }
+    icono.addEventListener("click", modifyUser);//ese icono va a tener un evento del tipo click y corre la funcion 
+
+    };
+    
+    function deletUser() {
+       const tr = this.parentNode.parentNode;
+       const tds = tr.querySelectorAll("td");
+       const id = tds[0];
+
+       let fd = new FormData();
+       fd.append("accion", "DELETEUSUARIO");
+       fd.append("ID", id.textContent);
+
+       const res = Post(fd);
+       if (res !== "OK") alert(res);
+       $f.addUser();
+    }
+    function modifyUser() {
+        const tr = this.parentNode.parentNode;
+        const tds = tr.querySelectorAll('td')
+        const id = tds[0].textContent;
+        const nombre = tds[1].textContent;
+        const dni = tds[2].textContent;
+        const mail = tds[3].textContent;
+
+        const user = {
+            ID: id,
+            Nombre: nombre,
+            Dni: dni,
+            Mail: mail
+        }
+
+        $f.modifyUser(user)
+    }
+  
 };
 const $dt = new $$DomTable();
+
