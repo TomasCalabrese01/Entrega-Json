@@ -88,7 +88,7 @@ const $$form = function () {
         const Submit = function () {
             try {
                 let Fd = new FormData();
-                Fd.append("accion", "FINDUSER");
+                Fd.append("accion", "FINDUSUARIO");
                 Fd.append("ID", ID.value);
                 const res = Post(Fd);
                 let user;

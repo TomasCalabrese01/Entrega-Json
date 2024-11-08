@@ -19,6 +19,9 @@ public partial class _Default : System.Web.UI.Page
             case "DELETEUSUARIO": DeleteUsuario(); break;
             case "MODIFYUSUARIO": ModifyUser(); break;
             case "FINDUSUARIO": FindUser(); break;//nuevo caso
+            default:
+                Response.Write("Invalid action");
+                break;
         }
     }
 
