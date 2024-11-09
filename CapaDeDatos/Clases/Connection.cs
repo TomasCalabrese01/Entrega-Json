@@ -1,14 +1,18 @@
-﻿using CapaDeDatos.Interfaces;
+﻿using CapaDeDatos;
 using System;
+using System.CodeDom;
 using System.Collections.Generic;
+using System.Configuration;
+using System.Data;
 using System.Data.SqlClient;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CapaDeDatos.Clases
+namespace CapaDeDatos
 {
-    internal class Connection : IBasicConnection, IConnection
+        public class Connection : IBasicConnection, IConnection
     {
         public SqlConnection MyConnection { get; set; }
         public SqlCommand MyCommand { get; set; }
@@ -66,7 +70,7 @@ namespace CapaDeDatos.Clases
         
         }
       
-        public void Exists() 
+        public bool Exists() 
         { 
         OpenConnection() ;
             try
@@ -82,7 +86,7 @@ namespace CapaDeDatos.Clases
             finally { MyConnection.Close(); }
         }
 
-        public int insert()
+        public int Insert()
         {
             OpenConnection();
             try
@@ -114,5 +118,81 @@ namespace CapaDeDatos.Clases
             MyConnection.Close(); 
             }
         }
+
+        public DataTable List()
+        {
+            OpenConnection();
+            try
+            {
+                DataTable DT = new DataTable();
+                DT.Load(MyCommand.ExecuteReader());
+                return DT;
+
+            }
+            catch( Exception ) 
+            {
+                throw new Exception("ERROR:no se pudo listar " + Referente);
+            }
+            finally { MyConnection.Close( ); } 
+
+        }
+        public DataRow Find()
+        {
+            OpenConnection();
+            try
+            {
+                DataTable DT = new DataTable();
+                DT.Load(MyCommand.ExecuteReader());
+                return DT.Rows[0];
+            }
+            catch ( Exception )
+            {
+                throw new Exception("ERROR:no se pudo encontrar" + Referente);
+            }
+            finally { MyConnection.Close();}
+        }
+        public void Update()
+        {
+            OpenConnection();
+            try
+            {
+                MyCommand.ExecuteNonQuery();
+            }
+
+            catch (Exception)
+            {
+                throw new Exception("ERROR:no se pudo actualizar el registro");
+            }
+            finally
+            {
+
+                MyConnection.Close();
+            }
+        }
+        #region Tparameters
+        public void ParameterAddBool(string Name, bool value)
+        {
+            MyCommand.Parameters.AddWithValue("@"+ Name, value); 
+        }
+        public void ParameterAddDateTime(string Name, DateTime value)
+        {
+            MyCommand.Parameters.AddWithValue("@" + Name, value);
+        }
+
+        public void ParameterAddFloat(string Name,double value)
+        {
+            MyCommand.Parameters.AddWithValue("@" + Name, value);
+        }
+        public void ParameterAddInt(string Name, int value)
+        {
+            MyCommand.Parameters.AddWithValue("@" + Name, value);
+        }
+        public void ParameterAddVarChar(string Name, string value)
+        {
+            MyCommand.Parameters.AddWithValue("@" + Name, value);
+        }
+
+    }
+    #endregion
 }
-}
+

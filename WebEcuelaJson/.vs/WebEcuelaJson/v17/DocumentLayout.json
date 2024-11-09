@@ -1,56 +1,84 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\WebEcuelaJson\\",
+  "WorkspaceRootPath": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\WebEcuelaJson\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13C1E6C4-8124-4E05-B545-5043901D8AE0}|..\\CapaDeDatos\\CapaDeDatos.csproj|c:\\users\\tomio\\onedrive\\escritorio\\crud bd\\entrega-json\\capadedatos\\clases\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\WebEcuelaJson|c:\\users\\isfdt\\desktop\\nueva carpeta\\entrega-json\\webecuelajson\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\WebEcuelaJson|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13C1E6C4-8124-4E05-B545-5043901D8AE0}|..\\CapaDeDatos\\CapaDeDatos.csproj|c:\\users\\tomio\\onedrive\\escritorio\\crud bd\\entrega-json\\capadedatos\\interfaces\\ijsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13C1E6C4-8124-4E05-B545-5043901D8AE0}|..\\CapaDeDatos\\CapaDeDatos.csproj|c:\\users\\isfdt\\desktop\\nueva carpeta\\entrega-json\\capadedatos\\interfaces\\igenericsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13C1E6C4-8124-4E05-B545-5043901D8AE0}|..\\CapaDeDatos\\CapaDeDatos.csproj|c:\\users\\tomio\\onedrive\\escritorio\\crud bd\\entrega-json\\capadedatos\\interfaces\\iconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13C1E6C4-8124-4E05-B545-5043901D8AE0}|..\\CapaDeDatos\\CapaDeDatos.csproj|c:\\users\\isfdt\\desktop\\nueva carpeta\\entrega-json\\capadedatos\\interfaces\\iconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13C1E6C4-8124-4E05-B545-5043901D8AE0}|..\\CapaDeDatos\\CapaDeDatos.csproj|c:\\users\\tomio\\onedrive\\escritorio\\crud bd\\entrega-json\\capadedatos\\interfaces\\ibassicconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13C1E6C4-8124-4E05-B545-5043901D8AE0}|..\\CapaDeDatos\\CapaDeDatos.csproj|c:\\users\\isfdt\\desktop\\nueva carpeta\\entrega-json\\capadedatos\\interfaces\\ibassicconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13C1E6C4-8124-4E05-B545-5043901D8AE0}|..\\CapaDeDatos\\CapaDeDatos.csproj|c:\\users\\tomio\\onedrive\\escritorio\\crud bd\\entrega-json\\capadedatos\\interfaces\\iparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13C1E6C4-8124-4E05-B545-5043901D8AE0}|..\\CapaDeDatos\\CapaDeDatos.csproj|c:\\users\\isfdt\\desktop\\nueva carpeta\\entrega-json\\capadedatos\\clases\\parentsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13C1E6C4-8124-4E05-B545-5043901D8AE0}|..\\CapaDeDatos\\CapaDeDatos.csproj|c:\\users\\tomio\\onedrive\\escritorio\\crud bd\\entrega-json\\capadedatos\\interfaces\\igenericsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13C1E6C4-8124-4E05-B545-5043901D8AE0}|..\\CapaDeDatos\\CapaDeDatos.csproj|c:\\users\\isfdt\\desktop\\nueva carpeta\\entrega-json\\capadedatos\\clases\\jsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13C1E6C4-8124-4E05-B545-5043901D8AE0}|..\\CapaDeDatos\\CapaDeDatos.csproj|c:\\users\\tomio\\onedrive\\escritorio\\crud bd\\entrega-json\\capadedatos\\clases\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13C1E6C4-8124-4E05-B545-5043901D8AE0}|..\\CapaDeDatos\\CapaDeDatos.csproj|c:\\users\\isfdt\\desktop\\nueva carpeta\\entrega-json\\capadedatos\\interfaces\\iparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13C1E6C4-8124-4E05-B545-5043901D8AE0}|..\\CapaDeDatos\\CapaDeDatos.csproj|c:\\users\\tomio\\onedrive\\escritorio\\crud bd\\entrega-json\\capadedatos\\clases\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13C1E6C4-8124-4E05-B545-5043901D8AE0}|..\\CapaDeDatos\\CapaDeDatos.csproj|c:\\users\\isfdt\\desktop\\nueva carpeta\\entrega-json\\capadedatos\\interfaces\\ijsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13C1E6C4-8124-4E05-B545-5043901D8AE0}|..\\CapaDeDatos\\CapaDeDatos.csproj|c:\\users\\tomio\\onedrive\\escritorio\\crud bd\\entrega-json\\capadedatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13C1E6C4-8124-4E05-B545-5043901D8AE0}|..\\CapaDeDatos\\CapaDeDatos.csproj|c:\\users\\isfdt\\desktop\\nueva carpeta\\entrega-json\\capadedatos\\clases\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\WebEcuelaJson|c:\\users\\tomio\\onedrive\\escritorio\\crud bd\\entrega-json\\webecuelajson\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Clases\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\WebEcuelaJson|C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\WebEcuelaJson\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\WebEcuelaJson|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\tomio\\OneDrive\\Escritorio\\Nueva carpeta (2)\\WebEscuelaJson\\WebEcuelaJson|C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\WebEcuelaJson\\js\\form.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\tomio\\OneDrive\\Escritorio\\Nueva carpeta (2)\\WebEscuelaJson\\WebEcuelaJson|C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\WebEcuelaJson\\js\\form.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\tomio\\OneDrive\\Escritorio\\Nueva carpeta (2)\\WebEscuelaJson\\WebEcuelaJson|solutionrelative:js\\form.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\tomio\\OneDrive\\Escritorio\\Nueva carpeta (2)\\WebEscuelaJson\\WebEcuelaJson|C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\WebEcuelaJson\\js\\nav.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\tomio\\OneDrive\\Escritorio\\Nueva carpeta (2)\\WebEscuelaJson\\WebEcuelaJson|C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\WebEcuelaJson\\js\\nav.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\tomio\\OneDrive\\Escritorio\\Nueva carpeta (2)\\WebEscuelaJson\\WebEcuelaJson|solutionrelative:js\\nav.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\tomio\\OneDrive\\Escritorio\\Nueva carpeta (2)\\WebEscuelaJson\\WebEcuelaJson|C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\WebEcuelaJson\\js\\table.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\tomio\\OneDrive\\Escritorio\\Nueva carpeta (2)\\WebEscuelaJson\\WebEcuelaJson|C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\WebEcuelaJson\\js\\table.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\tomio\\OneDrive\\Escritorio\\Nueva carpeta (2)\\WebEscuelaJson\\WebEcuelaJson|solutionrelative:js\\table.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\tomio\\OneDrive\\Escritorio\\Nueva carpeta (2)\\WebEscuelaJson\\WebEcuelaJson|C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\WebEcuelaJson\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\tomio\\OneDrive\\Escritorio\\Nueva carpeta (2)\\WebEscuelaJson\\WebEcuelaJson|C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\WebEcuelaJson\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\tomio\\OneDrive\\Escritorio\\Nueva carpeta (2)\\WebEscuelaJson\\WebEcuelaJson|solutionrelative:js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tomio\\OneDrive\\Escritorio\\Nueva carpeta (2)\\WebEscuelaJson\\CapaDeNegocio\\Clases\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IParameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IJsonConverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IGenericSingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IBassicconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Clases\\Class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Clases\\Class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -60,132 +88,239 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\WebEcuelaJson\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\WebEcuelaJson\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-09T00:20:59.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "IParameters.cs",
-              "DocumentMoniker": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IParameters.cs",
+              "DocumentMoniker": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\CapaDeDatos\\Interfaces\\IParameters.cs",
               "RelativeDocumentMoniker": "..\\CapaDeDatos\\Interfaces\\IParameters.cs",
-              "ToolTip": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IParameters.cs",
+              "ToolTip": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\CapaDeDatos\\Interfaces\\IParameters.cs",
               "RelativeToolTip": "..\\CapaDeDatos\\Interfaces\\IParameters.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwAkAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T18:54:55.425Z",
+              "WhenOpened": "2024-11-08T22:39:39.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IJsonConverter.cs",
-              "DocumentMoniker": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IJsonConverter.cs",
-              "RelativeDocumentMoniker": "..\\CapaDeDatos\\Interfaces\\IJsonConverter.cs",
-              "ToolTip": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IJsonConverter.cs",
-              "RelativeToolTip": "..\\CapaDeDatos\\Interfaces\\IJsonConverter.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T18:54:49.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "IGenericSingleton.cs",
-              "DocumentMoniker": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IGenericSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\CapaDeDatos\\Interfaces\\IGenericSingleton.cs",
               "RelativeDocumentMoniker": "..\\CapaDeDatos\\Interfaces\\IGenericSingleton.cs",
-              "ToolTip": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IGenericSingleton.cs",
+              "ToolTip": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\CapaDeDatos\\Interfaces\\IGenericSingleton.cs",
               "RelativeToolTip": "..\\CapaDeDatos\\Interfaces\\IGenericSingleton.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T18:54:38.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Clases\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\CapaDeDatos\\Clases\\Class1.cs",
-              "ToolTip": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Clases\\Class1.cs",
-              "RelativeToolTip": "..\\CapaDeDatos\\Clases\\Class1.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAAwEQAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T18:53:01.08Z",
+              "WhenOpened": "2024-11-08T22:44:49.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "IConnection.cs",
-              "DocumentMoniker": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IConnection.cs",
+              "DocumentMoniker": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\CapaDeDatos\\Interfaces\\IConnection.cs",
               "RelativeDocumentMoniker": "..\\CapaDeDatos\\Interfaces\\IConnection.cs",
-              "ToolTip": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IConnection.cs",
+              "ToolTip": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\CapaDeDatos\\Interfaces\\IConnection.cs",
               "RelativeToolTip": "..\\CapaDeDatos\\Interfaces\\IConnection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T18:53:27.773Z",
+              "WhenOpened": "2024-11-08T22:44:06.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "IBassicconnection.cs",
-              "DocumentMoniker": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IBassicconnection.cs",
+              "DocumentMoniker": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\CapaDeDatos\\Interfaces\\IBassicconnection.cs",
               "RelativeDocumentMoniker": "..\\CapaDeDatos\\Interfaces\\IBassicconnection.cs",
-              "ToolTip": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IBassicconnection.cs",
+              "ToolTip": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\CapaDeDatos\\Interfaces\\IBassicconnection.cs",
               "RelativeToolTip": "..\\CapaDeDatos\\Interfaces\\IBassicconnection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T18:53:21.012Z",
+              "WhenOpened": "2024-11-08T22:43:53.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Class3.cs",
-              "DocumentMoniker": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Clases\\Class3.cs",
-              "RelativeDocumentMoniker": "..\\CapaDeDatos\\Clases\\Class3.cs",
-              "ToolTip": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Clases\\Class3.cs",
-              "RelativeToolTip": "..\\CapaDeDatos\\Clases\\Class3.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "ParentSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\CapaDeDatos\\Clases\\ParentSingleton.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeDatos\\Clases\\ParentSingleton.cs",
+              "ToolTip": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\CapaDeDatos\\Clases\\ParentSingleton.cs",
+              "RelativeToolTip": "..\\CapaDeDatos\\Clases\\ParentSingleton.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwA4AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T18:53:14.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Class2.cs",
-              "DocumentMoniker": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Clases\\Class2.cs",
-              "RelativeDocumentMoniker": "..\\CapaDeDatos\\Clases\\Class2.cs",
-              "ToolTip": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Clases\\Class2.cs",
-              "RelativeToolTip": "..\\CapaDeDatos\\Clases\\Class2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T18:53:07.001Z",
+              "WhenOpened": "2024-11-08T22:34:46.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Program.cs",
-              "RelativeDocumentMoniker": "..\\CapaDeDatos\\Program.cs",
-              "ToolTip": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Program.cs",
-              "RelativeToolTip": "..\\CapaDeDatos\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\CapaDeDatos\\Clases\\Connection.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeDatos\\Clases\\Connection.cs",
+              "ToolTip": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\CapaDeDatos\\Clases\\Connection.cs",
+              "RelativeToolTip": "..\\CapaDeDatos\\Clases\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T18:49:00.175Z",
+              "WhenOpened": "2024-11-08T21:51:08.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
+              "Title": "JsonConverter.cs",
+              "DocumentMoniker": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\CapaDeDatos\\Clases\\JsonConverter.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeDatos\\Clases\\JsonConverter.cs",
+              "ToolTip": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\CapaDeDatos\\Clases\\JsonConverter.cs",
+              "RelativeToolTip": "..\\CapaDeDatos\\Clases\\JsonConverter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T22:13:37.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IJsonConverter.cs",
+              "DocumentMoniker": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\CapaDeDatos\\Interfaces\\IJsonConverter.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeDatos\\Interfaces\\IJsonConverter.cs",
+              "ToolTip": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\CapaDeDatos\\Interfaces\\IJsonConverter.cs",
+              "RelativeToolTip": "..\\CapaDeDatos\\Interfaces\\IJsonConverter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T22:14:21.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IParameters.cs",
+              "DocumentMoniker": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IParameters.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IParameters.cs",
+              "ToolTip": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IParameters.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IParameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:54:55.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IJsonConverter.cs",
+              "DocumentMoniker": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IJsonConverter.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IJsonConverter.cs",
+              "ToolTip": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IJsonConverter.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IJsonConverter.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:54:49.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IGenericSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IGenericSingleton.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IGenericSingleton.cs",
+              "ToolTip": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IGenericSingleton.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IGenericSingleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:54:38.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Clases\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Clases\\Class1.cs",
+              "ToolTip": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Clases\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Clases\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:53:01.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IConnection.cs",
+              "DocumentMoniker": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IConnection.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IConnection.cs",
+              "ToolTip": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IConnection.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:53:27.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IBassicconnection.cs",
+              "DocumentMoniker": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IBassicconnection.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IBassicconnection.cs",
+              "ToolTip": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IBassicconnection.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Interfaces\\IBassicconnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:53:21.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Clases\\Class3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Clases\\Class3.cs",
+              "ToolTip": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Clases\\Class3.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Clases\\Class3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:53:14.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Clases\\Class2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Clases\\Class2.cs",
+              "ToolTip": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Clases\\Class2.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Clases\\Class2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:53:07.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Program.cs",
+              "ToolTip": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\CapaDeDatos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:49:00.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "form.js",
-              "DocumentMoniker": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\WebEcuelaJson\\js\\form.js",
+              "DocumentMoniker": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\WebEcuelaJson\\js\\form.js",
               "RelativeDocumentMoniker": "js\\form.js",
-              "ToolTip": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\WebEcuelaJson\\js\\form.js",
+              "ToolTip": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\WebEcuelaJson\\js\\form.js",
               "RelativeToolTip": "js\\form.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -193,11 +328,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "main.js",
-              "DocumentMoniker": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\WebEcuelaJson\\js\\main.js",
+              "DocumentMoniker": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\WebEcuelaJson\\js\\main.js",
               "RelativeDocumentMoniker": "js\\main.js",
-              "ToolTip": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\WebEcuelaJson\\js\\main.js",
+              "ToolTip": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\WebEcuelaJson\\js\\main.js",
               "RelativeToolTip": "js\\main.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -205,11 +340,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "nav.js",
-              "DocumentMoniker": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\WebEcuelaJson\\js\\nav.js",
+              "DocumentMoniker": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\WebEcuelaJson\\js\\nav.js",
               "RelativeDocumentMoniker": "js\\nav.js",
-              "ToolTip": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\WebEcuelaJson\\js\\nav.js",
+              "ToolTip": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\WebEcuelaJson\\js\\nav.js",
               "RelativeToolTip": "js\\nav.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -217,23 +352,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\tomio\\OneDrive\\Escritorio\\Nueva carpeta (2)\\WebEscuelaJson\\CapaDeNegocio\\Clases\\Usuario.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Nueva carpeta (2)\\WebEscuelaJson\\CapaDeNegocio\\Clases\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\tomio\\OneDrive\\Escritorio\\Nueva carpeta (2)\\WebEscuelaJson\\CapaDeNegocio\\Clases\\Usuario.cs",
               "ToolTip": "C:\\Users\\tomio\\OneDrive\\Escritorio\\Nueva carpeta (2)\\WebEscuelaJson\\CapaDeNegocio\\Clases\\Usuario.cs",
-              "RelativeToolTip": "..\\..\\..\\Nueva carpeta (2)\\WebEscuelaJson\\CapaDeNegocio\\Clases\\Usuario.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\tomio\\OneDrive\\Escritorio\\Nueva carpeta (2)\\WebEscuelaJson\\CapaDeNegocio\\Clases\\Usuario.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAswEIAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T23:19:07.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "table.js",
-              "DocumentMoniker": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\WebEcuelaJson\\js\\table.js",
+              "DocumentMoniker": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\WebEcuelaJson\\js\\table.js",
               "RelativeDocumentMoniker": "js\\table.js",
-              "ToolTip": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\WebEcuelaJson\\js\\table.js",
+              "ToolTip": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\WebEcuelaJson\\js\\table.js",
               "RelativeToolTip": "js\\table.js",
               "ViewState": "AQIAABQAAAAAAAAAAAAQwHkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -241,16 +376,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Default.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\WebEcuelaJson\\Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\WebEcuelaJson\\Default.aspx.cs",
               "RelativeDocumentMoniker": "Default.aspx.cs",
-              "ToolTip": "C:\\Users\\tomio\\OneDrive\\Escritorio\\CRUD BD\\Entrega-Json\\WebEcuelaJson\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\isfdt\\Desktop\\Nueva carpeta\\Entrega-Json\\WebEcuelaJson\\Default.aspx.cs",
               "RelativeToolTip": "Default.aspx.cs",
               "ViewState": "AQIAAEkAAAAAAAAAAAAcwC4AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T16:28:20.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T16:28:20.811Z"
             }
           ]
         }

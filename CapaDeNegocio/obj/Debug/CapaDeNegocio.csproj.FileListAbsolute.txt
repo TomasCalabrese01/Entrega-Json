@@ -30,3 +30,19 @@ C:\Users\tomio\OneDrive\Escritorio\Nueva carpeta (2)\WebEscuelaJson\CapaDeNegoci
 C:\Users\tomio\OneDrive\Escritorio\Nueva carpeta (2)\WebEscuelaJson\CapaDeNegocio\obj\Debug\CapaDeNe.701FBC6E.Up2Date
 C:\Users\tomio\OneDrive\Escritorio\Nueva carpeta (2)\WebEscuelaJson\CapaDeNegocio\obj\Debug\CapaDeNegocio.dll
 C:\Users\tomio\OneDrive\Escritorio\Nueva carpeta (2)\WebEscuelaJson\CapaDeNegocio\obj\Debug\CapaDeNegocio.pdb
+C:\Users\isfdt\Desktop\Nueva carpeta\Entrega-Json\CapaDeNegocio\bin\Debug\CapaDeNegocio.dll
+C:\Users\isfdt\Desktop\Nueva carpeta\Entrega-Json\CapaDeNegocio\bin\Debug\CapaDeNegocio.pdb
+C:\Users\isfdt\Desktop\Nueva carpeta\Entrega-Json\CapaDeNegocio\bin\Debug\System.Memory.dll
+C:\Users\isfdt\Desktop\Nueva carpeta\Entrega-Json\CapaDeNegocio\bin\Debug\System.Text.Json.dll
+C:\Users\isfdt\Desktop\Nueva carpeta\Entrega-Json\CapaDeNegocio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\isfdt\Desktop\Nueva carpeta\Entrega-Json\CapaDeNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\isfdt\Desktop\Nueva carpeta\Entrega-Json\CapaDeNegocio\bin\Debug\System.Buffers.dll
+C:\Users\isfdt\Desktop\Nueva carpeta\Entrega-Json\CapaDeNegocio\bin\Debug\System.ValueTuple.dll
+C:\Users\isfdt\Desktop\Nueva carpeta\Entrega-Json\CapaDeNegocio\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\isfdt\Desktop\Nueva carpeta\Entrega-Json\CapaDeNegocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\isfdt\Desktop\Nueva carpeta\Entrega-Json\CapaDeNegocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\isfdt\Desktop\Nueva carpeta\Entrega-Json\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\isfdt\Desktop\Nueva carpeta\Entrega-Json\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\isfdt\Desktop\Nueva carpeta\Entrega-Json\CapaDeNegocio\obj\Debug\CapaDeNe.701FBC6E.Up2Date
+C:\Users\isfdt\Desktop\Nueva carpeta\Entrega-Json\CapaDeNegocio\obj\Debug\CapaDeNegocio.dll
+C:\Users\isfdt\Desktop\Nueva carpeta\Entrega-Json\CapaDeNegocio\obj\Debug\CapaDeNegocio.pdb

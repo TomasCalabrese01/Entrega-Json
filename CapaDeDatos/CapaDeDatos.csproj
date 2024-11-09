@@ -34,7 +34,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Text.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -43,9 +45,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Clases\Class1.cs" />
-    <Compile Include="Clases\Class2.cs" />
-    <Compile Include="Clases\Class3.cs" />
+    <Compile Include="Clases\Connection.cs" />
+    <Compile Include="Clases\JsonConverter.cs" />
+    <Compile Include="Clases\ParentSingleton.cs" />
     <Compile Include="Interfaces\IBassicconnection.cs" />
     <Compile Include="Interfaces\IConnection.cs" />
     <Compile Include="Interfaces\IGenericSingleton.cs" />

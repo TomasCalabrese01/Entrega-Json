@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CapaDeDatos.Interfaces
+namespace CapaDeDatos
 {
-    internal interface IJsonConverter
+    public interface IJsonConverter
     {
         string RowToJson(DataRow Dr);
         string TableToJson(DataTable Dt);

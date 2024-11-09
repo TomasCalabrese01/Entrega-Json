@@ -6,9 +6,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
-namespace CapaDeDatos.Interfaces
+namespace CapaDeDatos
 {
-    internal interface IConnection:IParameters
+    public interface IConnection:IParameters
     {
         void CreateCommand(string storeprocedure, string referente);
         int Insert();

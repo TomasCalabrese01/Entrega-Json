@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CapaDeDatos.Interfaces
+namespace CapaDeDatos
 {
-    internal interface IGenericSingleton <T>
+    public interface IGenericSingleton <T>
     {
         void Add(T data);
         void Erase(T data);

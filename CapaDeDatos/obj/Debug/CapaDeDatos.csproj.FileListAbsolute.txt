@@ -1,0 +1,4 @@
+C:\Users\isfdt\Desktop\Nueva carpeta\Entrega-Json\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.AssemblyReference.cache
+C:\Users\isfdt\Desktop\Nueva carpeta\Entrega-Json\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\isfdt\Desktop\Nueva carpeta\Entrega-Json\CapaDeDatos\obj\Debug\CapaDeDatos.exe.config
+C:\Users\isfdt\Desktop\Nueva carpeta\Entrega-Json\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache

@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
-namespace CapaDeDatos.Interfaces
+namespace CapaDeDatos
 {
-    internal interface IBasicConnection
+    public interface IBasicConnection
     {
-        SqlConnection Myconnection { get; set; }
-        SqlCommand Mycommand { get; set; } 
+        SqlConnection MyConnection { get; set; }
+        SqlCommand MyCommand { get; set; } 
         string Referente { get; set; }
         string ConnectionString { get; set; }
         void OpenConnection();
