@@ -50,7 +50,6 @@
     <Compile Include="Clases\ParentSingleton.cs" />
     <Compile Include="Interfaces\IBassicconnection.cs" />
     <Compile Include="Interfaces\IConnection.cs" />
-    <Compile Include="Interfaces\IGenericSingleton.cs" />
     <Compile Include="Interfaces\IJsonConverter.cs" />
     <Compile Include="Interfaces\IParameters.cs" />
     <Compile Include="Program.cs" />

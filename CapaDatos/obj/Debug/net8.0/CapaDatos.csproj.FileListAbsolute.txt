@@ -1,0 +1,5 @@
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapaDatos\obj\Debug\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfo.cs
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapaDatos\obj\Debug\net8.0\CapaDatos.sourcelink.json

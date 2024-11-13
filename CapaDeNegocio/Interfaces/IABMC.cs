@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Crud
+namespace CapaDeNegocio
 {
-    internal interface IABMC<T>: IID
+    internal interface IABMC: IID
     {
         void Modify();
         void Add();

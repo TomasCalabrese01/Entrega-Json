@@ -4,8 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using Crud;
-
+using CapaDeNegocio;
 public partial class _Default : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
@@ -27,13 +26,13 @@ public partial class _Default : System.Web.UI.Page
 
         private void AddUsuario()
         {
-            Usuario U = new Usuario();
+            Usuario U = new Usuario();//se crea un usuario
             U.Nombre = Request["Nombre"];
             U.Mail = Request["Mail"];
             U.Dni = int.Parse(Request["Dni"]);
             try
             {
-                U.Add();
+                U.Add();// va a intentar agregar un usuario
                 Response.Write("OK");
             }
             catch (Exception er)
@@ -44,8 +43,8 @@ public partial class _Default : System.Web.UI.Page
         }
     private void ListUsuarios()
     {
-        Usuario U = new Usuario();
-        string lista = U.List();
+        Usuario U = new Usuario();//se crea un usuario
+        string lista = U.List(); //se responde con una lista
         Response.Write(lista);
 
     }
@@ -71,6 +70,8 @@ public partial class _Default : System.Web.UI.Page
         Usuario U = new Usuario();
         U.ID = int.Parse(Request["ID"]);
         U.Nombre = Request["Nombre"];
+        U.Mail = Request["Mail"];
+        U.Dni = int.Parse(Request["Dni"]);
         try
         {
             U.Modify();

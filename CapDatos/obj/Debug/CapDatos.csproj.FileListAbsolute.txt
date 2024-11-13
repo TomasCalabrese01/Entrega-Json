@@ -1,0 +1,16 @@
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapDatos\bin\Debug\CapDatos.dll
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapDatos\bin\Debug\CapDatos.pdb
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapDatos\bin\Debug\System.Text.Json.dll
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapDatos\bin\Debug\System.Memory.dll
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapDatos\bin\Debug\System.ValueTuple.dll
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapDatos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapDatos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapDatos\bin\Debug\System.Buffers.dll
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapDatos\obj\Debug\CapDatos.csproj.AssemblyReference.cache
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapDatos\obj\Debug\CapDatos.csproj.CoreCompileInputs.cache
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapDatos\obj\Debug\CapDatos.csproj.Up2Date
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapDatos\obj\Debug\CapDatos.dll
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapDatos\obj\Debug\CapDatos.pdb

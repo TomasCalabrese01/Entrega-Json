@@ -6,11 +6,11 @@ using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
-namespace Crud
+namespace CapaDeNegocio
 {
-    public class Usuario : IABMC<Usuario>, IUsuario
+    public class Usuario : IUsuario
     {
-        private static Datos datos =new Datos();
+        internal Singleton S { get => Singleton.GetInstance; } //obtengo la instancia singleton
         
         #region IID
         public int ID { get ; set ; }
@@ -22,55 +22,55 @@ namespace Crud
         public int Dni { get; set; }
         public string Mail { get; set; }
 
-        public bool DniExist(int dni)
+        public bool DniExist()
         {
-         
-            return false;
+
+            return S.ISU.DniExists(this);
             
         }
-        public bool MailExist(string mail)
+        public bool MailExist()
         {
-            return false;
+            return S.ISU.MailExists(this);
 
         }
         //-------------realizar los alumnos
-        public Usuario FindDni(int dni)
+        public string FindByDni()
         {
-            throw new NotImplementedException();
+            return S.ISU.FindByDni(this);
         }
 
-        public Usuario FindMail(string mail)
+        public string FindByMail()
         {
-            throw new NotImplementedException();
+            return S.ISU.FindByMail(this);
         }
         //---------------------------------
 
         public string List()
         {
 
-            return datos.List();
+            return S.ISU.List();//encapsulamiento, singleton se transforma en ISU
         }
         #endregion
 
         #region IABMC
         public void Add()
         {
-            datos.Add(this);
+            S.ISU.Add(this);//encapsulamiento, la clase singleton se comporta como ISU, el que realiza la accion es la instancia singleton
         }
         public void Erase()
         {
-            datos.Erase(this);
+            S.ISU.Erase(this);
         }
 
         public string Find()
         {
-            return datos.Find(this);
-
+            
+            return S.ISU.Find(this);
         }
         
         public void Modify()
         {
-            datos.Modify(this);
+            S.ISU.Modify(this);
         }
         #endregion
 

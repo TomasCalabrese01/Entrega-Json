@@ -6,7 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebEcuelaJson", ".", "{649FF9E1-8A76-4201-8C48-D55AA79B2407}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
-		ProjectReferences = "{4c0c1be2-8628-4f4d-baca-7688609baa73}|CapaDeNegocio.dll;"
+		ProjectReferences = "{4c0c1be2-8628-4f4d-baca-7688609baa73}|CapaDeNegocio.dll;{1204733F-550C-45B7-AFF1-85941C04E259}|CapDatos.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_51166"
 		Debug.AspNetCompiler.PhysicalPath = "..\WebEcuelaJson\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51166\"
@@ -28,7 +28,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebEcuelaJson", ".", "{649F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDeNegocio", "..\CapaDeNegocio\CapaDeNegocio.csproj", "{4C0C1BE2-8628-4F4D-BACA-7688609BAA73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDeDatos", "..\CapaDeDatos\CapaDeDatos.csproj", "{13C1E6C4-8124-4E05-B545-5043901D8AE0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapDatos", "..\CapDatos\CapDatos.csproj", "{1204733F-550C-45B7-AFF1-85941C04E259}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -44,10 +44,10 @@ Global
 		{4C0C1BE2-8628-4F4D-BACA-7688609BAA73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C0C1BE2-8628-4F4D-BACA-7688609BAA73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C0C1BE2-8628-4F4D-BACA-7688609BAA73}.Release|Any CPU.Build.0 = Release|Any CPU
-		{13C1E6C4-8124-4E05-B545-5043901D8AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{13C1E6C4-8124-4E05-B545-5043901D8AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{13C1E6C4-8124-4E05-B545-5043901D8AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{13C1E6C4-8124-4E05-B545-5043901D8AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1204733F-550C-45B7-AFF1-85941C04E259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1204733F-550C-45B7-AFF1-85941C04E259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1204733F-550C-45B7-AFF1-85941C04E259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1204733F-550C-45B7-AFF1-85941C04E259}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

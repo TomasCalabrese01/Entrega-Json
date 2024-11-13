@@ -2,3 +2,22 @@ C:\Users\isfdt\Desktop\Nueva carpeta\Entrega-Json\CapaDeDatos\obj\Debug\CapaDeDa
 C:\Users\isfdt\Desktop\Nueva carpeta\Entrega-Json\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.SuggestedBindingRedirects.cache
 C:\Users\isfdt\Desktop\Nueva carpeta\Entrega-Json\CapaDeDatos\obj\Debug\CapaDeDatos.exe.config
 C:\Users\isfdt\Desktop\Nueva carpeta\Entrega-Json\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapaDeDatos\bin\Debug\CapaDeDatos.exe.config
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapaDeDatos\bin\Debug\CapaDeDatos.exe
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapaDeDatos\bin\Debug\System.Text.Json.dll
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapaDeDatos\bin\Debug\System.Memory.dll
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapaDeDatos\bin\Debug\System.ValueTuple.dll
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapaDeDatos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapaDeDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapaDeDatos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapaDeDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapaDeDatos\bin\Debug\System.Buffers.dll
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapaDeDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.AssemblyReference.cache
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapaDeDatos\obj\Debug\CapaDeDatos.exe.config
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapaDeDatos\obj\Debug\CapaDeDa.D72029D7.Up2Date
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapaDeDatos\obj\Debug\CapaDeDatos.exe
+C:\Users\tomio\Downloads\Entrega-Json\Entrega-Json\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
